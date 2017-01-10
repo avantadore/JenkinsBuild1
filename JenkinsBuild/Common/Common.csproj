@@ -40,6 +40,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="INinja.cs" />
+    <Compile Include="INinjaDataProvider.cs" />
+    <Compile Include="Ninja.cs" />
+    <Compile Include="NinjaRepository.cs" />
     <Compile Include="StringAnalyzer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
